@@ -16,3 +16,5 @@ as they may have been lower weighted in the same answer choice (each answer choi
 
 I mainly struggled with coding in Javascript because it became hard to debug, but I essentially learned how to maneuver through those hurdles. For example most of the errors I received for the scoring section were logical
 and that showed me how to understand the problem better and truly build the code rather than just simply look out for syntax.
+
+https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme
